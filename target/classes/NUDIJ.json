@@ -1,0 +1,274 @@
+{
+  "private_data": {
+    "Example": {
+      "island_spawn_SCoords": "0!0",
+      "island_corners": [],
+      "island_time": "default",
+      "island_locked": false,
+      "island_owner": "none",
+      "islandID": 0,
+      "island_admins": [],
+      "role_settings": {
+        "UseFly": [
+          "OWNER",
+          "ADMIN",
+          "MEMBER",
+          "NONMEMBER"
+        ],
+        "AnimalRiding": [
+          "OWNER",
+          "ADMIN",
+          "MEMBER"
+        ],
+        "UseMiners": [
+          "OWNER",
+          "ADMIN"
+        ],
+        "ISManageSettings": [
+          "OWNER",
+          "ADMIN"
+        ],
+        "HurtPassiveMobs": [
+          "OWNER",
+          "ADMIN",
+          "MEMBER"
+        ],
+        "UseBed": [
+          "OWNER",
+          "ADMIN",
+          "MEMBER"
+        ],
+        "ChestShopAccess": [
+          "OWNER",
+          "ADMIN",
+          "MEMBER"
+        ],
+        "HurtHostileMobs": [
+          "OWNER",
+          "ADMIN",
+          "MEMBER"
+        ],
+        "UseBeacon": [
+          "OWNER",
+          "ADMIN",
+          "MEMBER"
+        ],
+        "UseSplashPotions": [
+          "OWNER",
+          "ADMIN",
+          "MEMBER"
+        ],
+        "CropTrampling": [
+          "OWNER",
+          "ADMIN",
+          "MEMBER"
+        ],
+        "BankBalanceAccess": [
+          "OWNER",
+          "ADMIN",
+          "MEMBER",
+          "NONMEMBER"
+        ],
+        "UseEnderpearl": [
+          "OWNER",
+          "ADMIN",
+          "MEMBER"
+        ],
+        "ISBan": [
+          "OWNER",
+          "ADMIN"
+        ],
+        "LeashMobs": [
+          "OWNER",
+          "ADMIN",
+          "MEMBER"
+        ],
+        "IslandChatAccess": [
+          "OWNER",
+          "ADMIN",
+          "MEMBER"
+        ],
+        "UseGate": [
+          "OWNER",
+          "ADMIN",
+          "MEMBER",
+          "NONMEMBER"
+        ],
+        "CreepersHurt": [],
+        "BreedAnimals": [
+          "OWNER",
+          "ADMIN",
+          "MEMBER"
+        ],
+        "BreakBlocks": [
+          "OWNER",
+          "ADMIN",
+          "MEMBER"
+        ],
+        "UseShears": [
+          "OWNER",
+          "ADMIN",
+          "MEMBER"
+        ],
+        "PickupItems": [
+          "OWNER",
+          "ADMIN",
+          "MEMBER",
+          "NONMEMBER"
+        ],
+        "UseIslandVault": [
+          "OWNER",
+          "ADMIN",
+          "MEMEBR"
+        ],
+        "UseNoteblock": [
+          "OWNER",
+          "ADMIN",
+          "MEMBER"
+        ],
+        "AnimalContainerAccess": [
+          "OWNER",
+          "ADMIN",
+          "MEMBER"
+        ],
+        "UseItemFrame": [
+          "OWNER",
+          "ADMIN",
+          "MEMBER"
+        ],
+        "DropItems": [
+          "OWNER",
+          "ADMIN",
+          "MEMBER",
+          "NONMEMBER"
+        ],
+        "UseSethome": [
+          "OWNER",
+          "ADMIN",
+          "MEMEBR"
+        ],
+        "BreakValuables": [
+          "OWNER",
+          "ADMIN",
+          "MEMBER"
+        ],
+        "ISKick": [
+          "OWNER",
+          "ADMIN"
+        ],
+        "UseRedstoneInteractor": [
+          "OWNER",
+          "ADMIN",
+          "MEMBER"
+        ],
+        "MilkCows": [
+          "OWNER",
+          "ADMIN",
+          "MEMBER"
+        ],
+        "PlaceBlocks": [
+          "OWNER",
+          "ADMIN",
+          "MEMBER"
+        ],
+        "ContainerAccess": [
+          "OWNER",
+          "ADMIN",
+          "MEMBER"
+        ],
+        "ISInvite": [
+          "OWNER",
+          "ADMIN"
+        ],
+        "UseJukebox": [
+          "OWNER",
+          "ADMIN",
+          "MEMBER"
+        ],
+        "UseFire": [
+          "OWNER",
+          "ADMIN",
+          "MEMBER"
+        ],
+        "BankWithdrawAccess": [
+          "OWNER",
+          "ADMIN",
+          "MEMBER"
+        ],
+        "BankDepositAccess": [
+          "OWNER",
+          "ADMIN",
+          "MEMBER"
+        ],
+        "UseWarp": [
+          "OWNER"
+        ],
+        "UseRedstone": [
+          "OWNER",
+          "ADMIN",
+          "MEMBER"
+        ],
+        "UseDoor": [
+          "OWNER",
+          "ADMIN",
+          "MEMBER",
+          "NONMEMBER"
+        ],
+        "UseMobCoin": [
+          "OWNER",
+          "ADMIN",
+          "MEMBER"
+        ],
+        "UseAnvil": [
+          "OWNER",
+          "ADMIN",
+          "MEMBER"
+        ],
+        "PotionBrew": [
+          "OWNER",
+          "ADMIN",
+          "MEMBER"
+        ],
+        "ISPromote": [
+          "OWNER",
+          "ADMIN"
+        ],
+        "ISDemote": [
+          "OWNER",
+          "ADMIN"
+        ],
+        "UseFurnace": [
+          "OWNER",
+          "ADMIN",
+          "MEMBER"
+        ],
+        "UseSpawnEgg": [
+          "OWNER",
+          "ADMIN",
+          "MEMBER"
+        ]
+      },
+      "island_bans": [],
+      "island_weather": "default",
+      "island_members": [],
+      "island_ogSpawn_SCoords": "0!0",
+      "island_value": 0,
+      "island_settings": {
+        "HostileMobSpawning": true,
+        "WitherDamage": false,
+        "PassiveMobSpawning": true,
+        "FireSpread": false,
+        "PVP": false,
+        "FallDamage": false,
+        "ExplosiveDamage": false
+      }
+    }
+  },
+  "global_data": {
+    "next_x": "SETTINGS.starting_offsetX",
+    "next_z": "SETTINGS.starting_offsetY",
+    "island_y": "120",
+    "test": "test",
+    "islands": 0
+  }
+}

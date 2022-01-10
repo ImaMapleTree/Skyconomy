@@ -1,0 +1,15 @@
+{
+  "global_data": {
+    "spawnOffset": 2500,
+    "northX": 0,
+    "southX": 0,
+    "eastZ": 0,
+    "westZ": 0,
+    "island_y": "120",
+    "test": "test",
+    "islands": 0,
+    "nextStep": 1
+    "currentX": 0,
+    "currentZ": 0
+  }
+}

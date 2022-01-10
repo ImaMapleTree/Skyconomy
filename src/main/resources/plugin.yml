@@ -1,0 +1,18 @@
+name: Skyconomy
+main: me.imamapletree.Skyconomy
+version: 0.1
+author: ImaMapleTree
+api-version: 1.16
+depend: [WorldEdit, NBTAPI, ViaVersion, WorldLinker]
+commands:
+ island:
+  aliases: [is]
+  description: skyblock island command
+ savestructure:
+  description: Save structure
+ loadstructure:
+  description: Load structure
+ test:
+  description: Test command
+ skydebug:
+  description: Debug command
